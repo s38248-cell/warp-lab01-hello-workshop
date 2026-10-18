@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, Warsztacie Programisty!");
+﻿Console.WriteLine("Hello world!");
