@@ -137,9 +137,9 @@ foreach (string przedmiot in przedmioty)
 
 Console.WriteLine();
 
-var loop = true;
+// var loop = true;
 
-while (loop)
+while (true)
 {
     Console.Write("Podaj numer przedmiotu do usunięcia: ");
     var input = Console.ReadLine();
@@ -149,7 +149,8 @@ while (loop)
         string nameOfRemovedItem = przedmioty[itemForRemoval - 1];
         przedmioty.RemoveAt(itemForRemoval - 1);
         Console.WriteLine($"Usunięto: {nameOfRemovedItem}");
-        loop = false; // może być ale lepiej użyć break;
+        break;
+        // loop = false; // może być ale lepiej użyć break;
     }
     else
     {
