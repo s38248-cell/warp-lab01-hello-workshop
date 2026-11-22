@@ -5,6 +5,9 @@ on:
   push: # turns on when a push is made to the main branch
     branches:
       - main
+  pull_request: # turns on when a pull request is made to the main branch
+    branches:
+      - main
 
 env:
   DOTNET_VERSION: 10.0.x
