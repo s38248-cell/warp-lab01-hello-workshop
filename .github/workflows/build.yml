@@ -5,6 +5,7 @@ on:
 
 env:
   DOTNET_VERSION: 10.0.x
+  PROJECT_PATH: ./GithubActions.csproj
 
 jobs:
   build:
@@ -17,7 +18,7 @@ jobs:
         run: echo "Runner is ready"
       - name: Checkout repository
         uses: actions/checkout@v4
-        
+
       - name: Setup .NET
         uses: actions/setup-dotnet@v4
         with:
