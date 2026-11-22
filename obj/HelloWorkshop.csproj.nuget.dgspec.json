@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\s38248\\HelloWorkshop\\HelloWorkshop.csproj": {}
+    "C:\\Users\\s38248\\Documents\\HelloWorkshop\\HelloWorkshop.csproj": {}
   },
   "projects": {
-    "c:\\Users\\s38248\\HelloWorkshop\\HelloWorkshop.csproj": {
+    "C:\\Users\\s38248\\Documents\\HelloWorkshop\\HelloWorkshop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\s38248\\HelloWorkshop\\HelloWorkshop.csproj",
+        "projectUniqueName": "C:\\Users\\s38248\\Documents\\HelloWorkshop\\HelloWorkshop.csproj",
         "projectName": "HelloWorkshop",
-        "projectPath": "c:\\Users\\s38248\\HelloWorkshop\\HelloWorkshop.csproj",
+        "projectPath": "C:\\Users\\s38248\\Documents\\HelloWorkshop\\HelloWorkshop.csproj",
         "packagesPath": "C:\\Users\\s38248\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\s38248\\HelloWorkshop\\obj\\",
+        "outputPath": "C:\\Users\\s38248\\Documents\\HelloWorkshop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s38248\\AppData\\Roaming\\NuGet\\NuGet.Config"
