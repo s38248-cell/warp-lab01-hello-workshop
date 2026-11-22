@@ -1,0 +1,15 @@
+C:\Users\s38248\Documents\HelloWorkshop\bin\Debug\net10.0\GithubActions.exe
+C:\Users\s38248\Documents\HelloWorkshop\bin\Debug\net10.0\GithubActions.deps.json
+C:\Users\s38248\Documents\HelloWorkshop\bin\Debug\net10.0\GithubActions.runtimeconfig.json
+C:\Users\s38248\Documents\HelloWorkshop\bin\Debug\net10.0\GithubActions.dll
+C:\Users\s38248\Documents\HelloWorkshop\bin\Debug\net10.0\GithubActions.pdb
+C:\Users\s38248\Documents\HelloWorkshop\obj\Debug\net10.0\GithubActions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s38248\Documents\HelloWorkshop\obj\Debug\net10.0\GithubActions.AssemblyInfoInputs.cache
+C:\Users\s38248\Documents\HelloWorkshop\obj\Debug\net10.0\GithubActions.AssemblyInfo.cs
+C:\Users\s38248\Documents\HelloWorkshop\obj\Debug\net10.0\GithubActions.csproj.CoreCompileInputs.cache
+C:\Users\s38248\Documents\HelloWorkshop\obj\Debug\net10.0\GithubActions.sourcelink.json
+C:\Users\s38248\Documents\HelloWorkshop\obj\Debug\net10.0\GithubActions.dll
+C:\Users\s38248\Documents\HelloWorkshop\obj\Debug\net10.0\refint\GithubActions.dll
+C:\Users\s38248\Documents\HelloWorkshop\obj\Debug\net10.0\GithubActions.pdb
+C:\Users\s38248\Documents\HelloWorkshop\obj\Debug\net10.0\GithubActions.genruntimeconfig.cache
+C:\Users\s38248\Documents\HelloWorkshop\obj\Debug\net10.0\ref\GithubActions.dll
