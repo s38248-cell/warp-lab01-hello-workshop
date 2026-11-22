@@ -149,7 +149,7 @@ while (loop)
         string nameOfRemovedItem = przedmioty[itemForRemoval - 1];
         przedmioty.RemoveAt(itemForRemoval - 1);
         Console.WriteLine($"Usunięto: {nameOfRemovedItem}");
-        loop = false;
+        loop = false; // może być ale lepiej użyć break;
     }
     else
     {
